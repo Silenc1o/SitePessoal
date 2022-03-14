@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/your-app-name/static/css/main.9c550b0f.css",
+    "main.js": "/your-app-name/static/js/main.ef681aa1.js",
+    "static/media/RobotoMono-Regular.ttf": "/your-app-name/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
+    "static/media/dark-wallpaper-20072813293931.jpg": "/your-app-name/static/media/dark-wallpaper-20072813293931.8aaa08ee88e67b10bf76.jpg",
+    "index.html": "/your-app-name/index.html",
+    "main.9c550b0f.css.map": "/your-app-name/static/css/main.9c550b0f.css.map",
+    "main.ef681aa1.js.map": "/your-app-name/static/js/main.ef681aa1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c550b0f.css",
+    "static/js/main.ef681aa1.js"
+  ]
+}
