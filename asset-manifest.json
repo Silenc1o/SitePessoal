@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/your-app-name/static/css/main.9c550b0f.css",
-    "main.js": "/your-app-name/static/js/main.ef681aa1.js",
-    "static/media/RobotoMono-Regular.ttf": "/your-app-name/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
-    "static/media/dark-wallpaper-20072813293931.jpg": "/your-app-name/static/media/dark-wallpaper-20072813293931.8aaa08ee88e67b10bf76.jpg",
-    "index.html": "/your-app-name/index.html",
-    "main.9c550b0f.css.map": "/your-app-name/static/css/main.9c550b0f.css.map",
-    "main.ef681aa1.js.map": "/your-app-name/static/js/main.ef681aa1.js.map"
+    "main.css": "/PersonalSite/static/css/main.7c60d31d.css",
+    "main.js": "/PersonalSite/static/js/main.ef681aa1.js",
+    "static/media/RobotoMono-Regular.ttf": "/PersonalSite/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
+    "static/media/dark-wallpaper-20072813293931.jpg": "/PersonalSite/static/media/dark-wallpaper-20072813293931.8aaa08ee88e67b10bf76.jpg",
+    "index.html": "/PersonalSite/index.html",
+    "main.7c60d31d.css.map": "/PersonalSite/static/css/main.7c60d31d.css.map",
+    "main.ef681aa1.js.map": "/PersonalSite/static/js/main.ef681aa1.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c550b0f.css",
+    "static/css/main.7c60d31d.css",
     "static/js/main.ef681aa1.js"
   ]
 }
